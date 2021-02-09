@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4c51e93-0116-48f0-9681-e5c905c0e68f" name="Default Changelist" comment="" />
+    <list default="true" id="c4c51e93-0116-48f0-9681-e5c905c0e68f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/static/polls/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +42,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hybird\Documents\django\django_web\polls\static\polls" />
+      <recent name="C:\Users\hybird\Documents\django\django_web\polls\static\images" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
